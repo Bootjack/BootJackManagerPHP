@@ -1,6 +1,6 @@
 /**	
 *
-* README
+* NOTES.txt
 *
 * BootJackManagerPHP
 * Management utility for planning web development projects and tracking billable time.
@@ -8,16 +8,15 @@
 * Built on CakePHP 1.3 with intended production environment assumed to support PHP 5+ and MySQL 4+
 *
 * Jason Hinebaugh
+* Bootjack Web
 * 2010.11.25
 *
 */
 
 CONTENTS
 
-1.	License
-2.	Installation
-3.	Release Notes
-4.	Known Issues
-5.	Troubleshooting
-6.	In Development
-7.	Thank You
+1.	Project Goals
+2.	Major Functionality
+3.	Typical Usage Scenario
+4.	Database Structure
+5.	MVC Outline
